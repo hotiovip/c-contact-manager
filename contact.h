@@ -5,7 +5,7 @@
 
 typedef struct {
     char name[50];
-    char phone[13]; // Format: (+49)0123456789
+    char phone[15]; // Format: (+49)0123456789
     char email[50];
 } Contact;
 
